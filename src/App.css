@@ -1,7 +1,5 @@
 body{
   background-color: rgba(45, 6, 68, 0.87);
-  background: -webkit-linear-gradient(to bottom, #3d0358, #0c0016);
-  background: linear-gradient(to bottom, #380364, #0c0016);
 }
 
 .title{
