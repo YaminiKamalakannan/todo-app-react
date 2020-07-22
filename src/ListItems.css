@@ -1,0 +1,37 @@
+.list{
+    width: 300px;   
+    height: 50px;
+    color: #190b3b ;
+    border-bottom: 2px solid #cecece;
+    margin: 20px auto;
+    font-size: large;
+    font-family: cursive;
+    font-weight: 100;
+}
+
+.list p{
+    padding: 10px;
+    position: relative;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+.faicons{
+    margin: 0 10px;
+    font-size: 15px;
+    color:#000000;
+}
+.list p input{
+    background-color: transparent;
+    font-size: 18px;
+    color: rgb(71, 14, 14);
+    border: 0;
+}
+.list p input:focus{
+    outline: none;
+}
+.checkbox-container{
+    margin-right: 10px;
+}
